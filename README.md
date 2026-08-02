@@ -34,7 +34,7 @@
 <!-- 2. About Section -->
 ## 👨‍💻 Engineering Profile
 
-I am an ambitious Engineering Student and Full-Stack Developer focused on building smart solutions using React 19, Python, and IoT systems. I specialize in integrating Generative AI models like LLaMA 3.1 into practical applications, including my project TN StudyMate. As a proactive problem solver, I have demonstrated my technical and pitching skills by showcasing my product to investors at the IIT Madras E-Summit-26.
+I am an ambitious Engineering Student and Full-Stack Developer focused on building smart solutions using React 19, Python, and IoT systems. I specialize in integrating Generative AI models like LLaMA 3.1 into practical applications, including my upcoming project TN StudyMate. As a proactive problem solver, I have demonstrated my technical and pitching skills by presenting my startup concept to investors at the IIT Madras E-Summit-26.
 
 - **Current Focus:** Full-Stack AI-Driven Platforms, Generative AI Integration, and 3D Dashboards (Three.js).
 - **Open To:** Full-Stack Development roles, AI/ML engineering opportunities, and Open Source collaborations.
@@ -81,7 +81,7 @@ An educational ecosystem using React 19 and Three.js to build immersive 3D dashb
 | **Stack** | React 19, Three.js, Python, Firebase |
 | **AI Integration** | LLaMA 3.1 via Groq API for real-time AI tutoring |
 | **Algorithms** | Custom Python-based Weighted Scoring Algorithm for career recommendations |
-| **Impact** | Showcased to investors at IIT Madras E-Summit-26 |
+| **Status** | Currently under development (Pitched concept to investors at IIT Madras E-Summit-26) |
 | **Repository** | [View Code](https://github.com/poobathi867) |
 
 *Aims to deliver a seamless, scalable end-to-end learning experience with a secure Firebase backend.*
@@ -125,7 +125,7 @@ An AI-integrated LMS with robust server-side architecture and real-time features
 
 | Recognition | Details |
 | :---: | :---: |
-| **IIT Madras E-Summit '26 Exhibitor** | Showcased TN StudyMate and pitched to investors |
+| **IIT Madras E-Summit '26 Exhibitor** | Pitched EdTech startup concept to investors |
 
 </div>
 
