@@ -154,10 +154,10 @@ An AI-integrated LMS with robust server-side architecture and real-time features
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=poobathi867&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=9333EA" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=poobathi867&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED&icon_color=9333EA" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=poobathi867&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=9333EA&currStreakLabel=7C3AED" width="48%" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=poobathi867&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=poobathi867&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=7C3AED" />
 </div>
 
 ---
