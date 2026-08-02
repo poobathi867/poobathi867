@@ -162,7 +162,7 @@ An AI-integrated LMS with robust server-side architecture and real-time features
 
 ---
 
-<!-- 11. GitHub Trophies Section -->
+<!-- 11. GitHub Trophies Section (Currently Disabled due to global API outage)
 ## 🏅 GitHub Trophies
 
 <div align="center">
@@ -170,6 +170,7 @@ An AI-integrated LMS with robust server-side architecture and real-time features
     <img src="https://github-profile-trophy.vercel.app/?username=poobathi867&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" />
   </a>
 </div>
+-->
 
 ---
 
@@ -186,7 +187,7 @@ An AI-integrated LMS with robust server-side architecture and real-time features
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/poobathi867/poobathi867/output/github-contribution-grid-snake-dark.svg" alt="GitHub Snake" />
+  <img src="https://raw.githubusercontent.com/poobathi867/poobathi867/output/github-contribution-grid-snake-dark.svg?v=1" alt="GitHub Snake" />
 </div>
 
 ---
